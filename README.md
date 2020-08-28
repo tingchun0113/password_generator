@@ -40,11 +40,11 @@ $ cd "password_generator"
 Install the dependencies using NPM
 
 ```
-npm install
+$ npm install
 ```
 
 Run the app
 
 ```
-npm run dev
+$ npm run dev
 ```
