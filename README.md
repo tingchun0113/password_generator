@@ -16,9 +16,8 @@
 ## Getting Started 🚀
 
 ```
-node v12.18.0 or higher
-npm v6.14.7 or higher
-
+node v12.18.0+
+npm v6.14.7+
 ```
 
 ---
