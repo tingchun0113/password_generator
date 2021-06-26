@@ -13,8 +13,6 @@ Demo: https://password-generator-nodejs.herokuapp.com/
   - Symbols
 - Can exclude certain characters
 
-Demo: https://password-generator-nodejs.herokuapp.com/
-
 ---
 
 ## Getting Started 🚀
