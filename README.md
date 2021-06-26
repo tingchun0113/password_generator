@@ -1,5 +1,7 @@
 # Password Generator
 
+Demo: https://password-generator-nodejs.herokuapp.com/
+
 ## Features ⚡️
 
 - A random password generator
